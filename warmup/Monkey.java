@@ -7,9 +7,9 @@ public class Monkey {
     }
 
     public static void main(String[] args) {
-        Monkey obj = new Monkey();
+        Monkey obj = new Monkey(); //hi  //hi
 
-        // Test cases
+        // Test cases 
         System.out.println(obj.monkeyTrouble(true, true));   // should print "true"
         System.out.println(obj.monkeyTrouble(false, false)); // should print "true"
         System.out.println(obj.monkeyTrouble(true, false));  // should print "false"
