@@ -7,7 +7,7 @@ public class Monkey {
     }
 
     public static void main(String[] args) {
-        Monkey obj = new Monkey();
+        Monkey obj = new Monkey(); //hi
 
         // Test cases
         System.out.println(obj.monkeyTrouble(true, true));   // should print "true"
